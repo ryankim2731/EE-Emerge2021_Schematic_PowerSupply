@@ -2,3 +2,4 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
+* Ryan Kim
